@@ -1,0 +1,49 @@
+{
+  "readyForLaunch": true,
+  "siteName": "Clover Legends Wiki",
+  "shortName": "Clover Legends",
+  "description": "Independent Clover Legends wiki for current codes, grimoires, tier lists, leveling, awakening and beginner progression guides.",
+  "language": "en",
+  "locale": "en_US",
+  "authorName": "Clover Legends Guide Team",
+  "theme": {
+    "headerStyle": "solid",
+    "componentStyle": "rounded",
+    "fontId": "manrope"
+  },
+  "hosting": {
+    "siteUrl": "https://clover-legends.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "contact": {
+    "email": null,
+    "url": null
+  },
+  "repositoryUrl": null,
+  "allowedExternalDomains": [
+    "roblox.com",
+    "progameguides.com",
+    "destructoid.com",
+    "mrguider.org"
+  ],
+  "assets": {
+    "logo": "/images/clover-legends-logo.webp",
+    "cover": "/images/clover-legends-cover.webp",
+    "openGraph": "/images/clover-legends-og.svg",
+    "favicon": "/images/clover-legends-logo.webp"
+  },
+  "game": {
+    "name": "Clover Legends",
+    "platform": "Roblox",
+    "developer": "Flecks Labs: Legends",
+    "genre": "Action RPG",
+    "officialUrl": "https://www.roblox.com/games/90860390610142/Clover-Legends"
+  },
+  "seo": {
+    "titleTemplate": "%s | Clover Legends",
+    "defaultKeywords": [
+      "clover legends"
+    ]
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Clover Legends Wiki: Codes, Tier List & Guides",
+  "description": "Clover Legends wiki with working codes, grimoire and race tier lists, all 12 grimoires, beginner tips, awakening, leveling and progression guides.",
+  "keywords": [
+    "clover legends",
+    "clover legends roblox",
+    "clover legends wiki",
+    "clover legends guide",
+    "clover legends codes",
+    "clover legends tier list",
+    "clover legends grimoires"
+  ],
+  "primaryKeyword": "clover legends",
+  "secondaryKeywords": [
+    "clover legends roblox",
+    "clover legends wiki",
+    "clover legends guide",
+    "clover legends codes",
+    "clover legends tier list",
+    "clover legends grimoires"
+  ],
+  "navVisible": true,
+  "hero": {
+    "eyebrow": "Roblox Action RPG",
+    "heading": "Clover Legends Wiki: Codes, Tier List & Guides",
+    "lead": "Your player-built hub for Clover Legends on Roblox: working codes, every grimoire, community tier lists, and progression guides for awakening, Book Levels and the Magic Knight ranks.",
+    "supportingText": "Clover Legends is a Roblox Action RPG by Flecks Labs: Legends where you collect grimoires, fight through 8 islands in real-time combat, and climb 17 Magic Knight ranks. This wiki keeps the parts that change most often, like codes and rankings, checked and clearly dated.",
+    "primaryLink": {
+      "label": "Latest Codes",
+      "slug": "clover-legends-codes"
+    },
+    "secondaryLink": {
+      "label": "Play on Roblox",
+      "url": "https://www.roblox.com/games/90860390610142/Clover-Legends"
+    }
+  },
+  "stats": [
+    {
+      "label": "Grimoires",
+      "value": "12"
+    },
+    {
+      "label": "Islands",
+      "value": "8"
+    },
+    {
+      "label": "Magic Knight Ranks",
+      "value": "17"
+    },
+    {
+      "label": "Spell Unlocks",
+      "value": "Book Lv 10 & 20"
+    }
+  ],
+  "sections": [
+    {
+      "id": "october-update",
+      "eyebrow": "Upcoming Update",
+      "heading": "Clover Legends Update — October 3, 2026",
+      "paragraphs": [
+        "A New Season event for Clover Legends is scheduled for October 3, 2026. The official Roblox event announcement mentions a New Grimoire & Islands arriving with it.",
+        "This page sticks to what the official announcement confirms — no guessed grimoire names, island details or rewards. Once the event is live, the codes, grimoire and guide pages on this wiki will be updated to match. You can follow the official Roblox page for Clover Legends below for the event announcement."
+      ],
+      "links": [
+        {
+          "label": "Official Clover Legends page on Roblox",
+          "slug": "",
+          "url": "https://www.roblox.com/games/90860390610142/Clover-Legends",
+          "description": "Roblox listing by Flecks Labs: Legends — event announcements appear here first."
+        }
+      ]
+    },
+    {
+      "id": "at-a-glance",
+      "heading": "Clover Legends at a Glance",
+      "paragraphs": [
+        "Before you pick a grimoire or spend a reroll, it helps to know what kind of game Clover Legends actually is. The official Roblox listing describes a real-time action RPG built around spells, dodges and ultimates rather than turn-based battles. You level your character and your equipped book separately, and awakening pushes a grimoire past its normal limits.",
+        "The table below pulls together the core facts from the game's official description so you can plan a route without guessing.",
+        "Two details in that table shape almost every decision a player makes. First, grimoires are split into four availability groups, so which book you carry is largely a question of luck and reroll budget. Second, awakening depends on Spell Pages from bosses, which means the strongest upgrades in the game are gated behind deliberate boss hunts rather than passive play. Keep both in mind and the rest of the systems fall into place."
+      ],
+      "table": {
+        "caption": "Clover Legends quick facts",
+        "columns": [
+          "Fact",
+          "Detail"
+        ],
+        "rows": [
+          [
+            "Developer",
+            "Flecks Labs: Legends"
+          ],
+          [
+            "Platform",
+            "Roblox"
+          ],
+          [
+            "Genre",
+            "Action RPG"
+          ],
+          [
+            "Grimoires",
+            "12 books across 4 availability groups"
+          ],
+          [
+            "Islands",
+            "8 explorable islands"
+          ],
+          [
+            "Magic Knight ranks",
+            "17, from Junior 5th to Grand 1st"
+          ],
+          [
+            "Spell milestones",
+            "New spells unlock at Book Level 10 and Book Level 20"
+          ],
+          [
+            "Awakening",
+            "Uses collected materials and boss Spell Pages"
+          ],
+          [
+            "Combat",
+            "Real-time combos, dodges and ultimates"
+          ],
+          [
+            "Forge",
+            "Craft cosmetics from collected resources"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "latest-codes",
+      "heading": "Latest Clover Legends Codes",
+      "paragraphs": [
+        "Codes are the fastest way to stack early resources in Clover Legends. The working set checked this month includes 50KSQUAD for 2,000 Gems, REROLL50K for 20 Race Rerolls, MERCURYTIME for 500 Gems plus 3 Race Rerolls, and DIAMOND9000 for 500 Gems plus 2 Spell Pages. Codes expire without much warning, so redeem them the day you see them — the full table, redemption steps and the expired list live on the codes page."
+      ],
+      "table": {
+        "caption": "Active Clover Legends codes (last checked September 29, 2026)",
+        "columns": [
+          "Code",
+          "Reward"
+        ],
+        "rows": [
+          [
+            "50KSQUAD",
+            "2,000 Gems"
+          ],
+          [
+            "REROLL50K",
+            "20 Race Rerolls"
+          ],
+          [
+            "MERCURYTIME",
+            "500 Gems + 3 Race Rerolls"
+          ],
+          [
+            "DIAMOND9000",
+            "500 Gems + 2 Spell Pages"
+          ]
+        ]
+      },
+      "subsections": [
+        {
+          "heading": "What each code reward does",
+          "paragraphs": [
+            "Gems are the game's main spendable currency, Race Rerolls let you redraw your character's race and its reported stat bonuses, and Spell Pages feed the awakening system that raises your book's level cap. In other words, one good code drop touches three different progression systems at once."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grimoires",
+      "heading": "All 12 Clover Legends Grimoires",
+      "paragraphs": [
+        "Every player in Clover Legends carries a grimoire, and the official Roblox description groups all 12 books into four availability tiers. You start among Fire, Wind and Water, while Light and Anti-Magic sit in the rarest group. Your book gains Book Level as you fight, and new spells unlock at Book Level 10 and Book Level 20, so even a common starter book grows with you."
+      ],
+      "table": {
+        "caption": "Official grimoire availability groups",
+        "columns": [
+          "Availability group",
+          "Grimoires"
+        ],
+        "rows": [
+          [
+            "Starter group",
+            "Fire, Wind, Water"
+          ],
+          [
+            "Growth group",
+            "Earth, Lightning, Plant, Poison, Chain"
+          ],
+          [
+            "Rarer group",
+            "World Tree, Dark"
+          ],
+          [
+            "Rarest group",
+            "Light, Anti-Magic"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "Clover Legends Grimoires",
+          "slug": "clover-legends-grimoires",
+          "description": "All 12 books, availability groups and how Book Levels work."
+        },
+        {
+          "label": "Clover Legends Tier List",
+          "slug": "clover-legends-tier-list",
+          "description": "Community rankings for every grimoire and race."
+        }
+      ]
+    },
+    {
+      "id": "progression",
+      "heading": "How Progression Works",
+      "paragraphs": [
+        "Clover Legends runs several progression tracks at once, and mixing them up is the most common way new players stall. Character level, Book Level, awakening and Magic Knight rank all advance on their own schedules."
+      ],
+      "subsections": [
+        {
+          "heading": "Book Levels and Spell Unlocks",
+          "paragraphs": [
+            "Your grimoire levels while you fight, not through a separate menu grind. The two milestones that matter most are Book Level 10 and Book Level 20, because each one adds new spells to the book you already carry. That makes an early investment in any book pay off before you ever reroll."
+          ]
+        },
+        {
+          "heading": "Awakening and Spell Pages",
+          "paragraphs": [
+            "Awakening is the long-term upgrade system. You gather materials across the islands and hunt Spell Pages from bosses, and each awakening raises your book's level cap while improving its damage and critical performance. It is a slow burn, which is why the awakening guide walks through preparation before you spend anything."
+          ]
+        },
+        {
+          "heading": "Magic Knight Ranks and Islands",
+          "paragraphs": [
+            "The world spans 8 islands, and 17 Magic Knight ranks run from Junior 5th at the bottom to Grand 1st at the top. Moving to a new island usually follows the live quest route, and rank promotions track how far along that route you have come."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Awakening Guide",
+          "slug": "clover-legends-awakening-guide",
+          "description": "Materials, Spell Pages and how to prepare each awakening."
+        },
+        {
+          "label": "Leveling Guide",
+          "slug": "clover-legends-leveling-guide",
+          "description": "Character levels, Book Levels, ranks and when to change islands."
+        }
+      ]
+    },
+    {
+      "id": "start-here",
+      "heading": "Start Here: Beginner Route",
+      "paragraphs": [
+        "If you are launching Clover Legends for the first time, the route below keeps you from wasting the resources that matter early. It stays deliberately high level, because exact quest details shift with game updates."
+      ],
+      "steps": [
+        {
+          "heading": "Claim every working code",
+          "description": "Redeem the active codes before you spend Gems or rerolls, so free Race Rerolls and Spell Pages are already in your inventory."
+        },
+        {
+          "heading": "Learn your starting grimoire",
+          "description": "Fight with the book you rolled instead of rerolling on instinct. Book Level 10 arrives quickly and unlocks new spells."
+        },
+        {
+          "heading": "Practice real-time combat",
+          "description": "Get comfortable with combos, dodge timing and your equipped spells on early enemies before tougher islands punish sloppy play."
+        },
+        {
+          "heading": "Follow the early quests",
+          "description": "Early quests level both your character and your grimoire at the same time, which is the most efficient use of your first hours."
+        },
+        {
+          "heading": "Push toward Book Level 10 and 20",
+          "description": "Keep your book equipped while questing so both spell milestones unlock as early as possible."
+        },
+        {
+          "heading": "Bank awakening materials",
+          "description": "Hold on to gathered materials and any Spell Pages from bosses. You will need them for your first awakening, and spending early makes that wait longer."
+        },
+        {
+          "heading": "Move islands with the quest route",
+          "description": "When the live quests send you to the next island, follow them. The route is tuned to introduce new content at a survivable difficulty."
+        }
+      ],
+      "links": [
+        {
+          "label": "Beginner Guide",
+          "slug": "clover-legends-beginner-guide",
+          "description": "A full first-session walkthrough with mistakes to avoid."
+        }
+      ]
+    },
+    {
+      "id": "guides",
+      "heading": "Clover Legends Guides",
+      "paragraphs": [
+        "Every core page on this wiki answers one specific question about the game. Pick the one that matches where you are stuck right now."
+      ],
+      "links": [
+        {
+          "label": "Codes",
+          "slug": "clover-legends-codes",
+          "description": "Active codes, redemption steps and the expired list, updated with a last-checked date."
+        },
+        {
+          "label": "Tier List",
+          "slug": "clover-legends-tier-list",
+          "description": "Community rankings for grimoires and races, with reported bonuses for every race."
+        },
+        {
+          "label": "Grimoires",
+          "slug": "clover-legends-grimoires",
+          "description": "The full 12-book directory with availability groups and spell milestones."
+        },
+        {
+          "label": "Beginner Guide",
+          "slug": "clover-legends-beginner-guide",
+          "description": "First 30 minutes, first grimoire choices and early progression."
+        },
+        {
+          "label": "Awakening Guide",
+          "slug": "clover-legends-awakening-guide",
+          "description": "Materials, boss Spell Pages and preparing each awakening."
+        },
+        {
+          "label": "Leveling Guide",
+          "slug": "clover-legends-leveling-guide",
+          "description": "Character level vs Book Level, quest loops, ranks and island changes."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Clover Legends?",
+      "answer": "Clover Legends is a Roblox Action RPG by Flecks Labs: Legends. You collect grimoires, fight in real-time combat with combos, dodges and ultimates, and progress through 8 islands while climbing 17 Magic Knight ranks."
+    },
+    {
+      "question": "Is Clover Legends on Roblox?",
+      "answer": "Yes. Clover Legends is a Roblox experience, and the only official place to play it is its listing on the Roblox platform under developer Flecks Labs: Legends."
+    },
+    {
+      "question": "How many grimoires are in Clover Legends?",
+      "answer": "There are 12 grimoires, split by the official description into four availability groups: Fire, Wind and Water as starters; Earth, Lightning, Plant, Poison and Chain next; World Tree and Dark as rarer books; and Light and Anti-Magic as the rarest."
+    },
+    {
+      "question": "When do grimoires unlock new spells?",
+      "answer": "A grimoire gains Book Level as you fight, and new spells unlock at Book Level 10 and Book Level 20 on the book you already carry."
+    },
+    {
+      "question": "How does awakening work?",
+      "answer": "Awakening uses materials you gather plus Spell Pages hunted from bosses. Each awakening raises your book's level cap and improves its damage and critical performance."
+    },
+    {
+      "question": "Where can I find Clover Legends codes?",
+      "answer": "The developer shares codes through the game's official channels, with the Roblox listing pointing to its Discord as the release channel. This wiki's codes page tracks the currently working set with a last-checked date."
+    }
+  ],
+  "lastReviewed": "2026-09-29"
+}
