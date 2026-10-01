@@ -1,4 +1,5 @@
 import type { CSSProperties, ReactNode } from "react";
+import Script from "next/script";
 import { SiteFooter } from "@/components/site/site-footer";
 import { SkinHeader } from "@/components/site/skin-header";
 import { siteConfig } from "@/config/site";
@@ -34,6 +35,7 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         <SkinHeader links={navLinks} />
         <div id="main-content">{children}</div>
         <SiteFooter coreLinks={navLinks} legalLinks={legalLinks} />
+        <Script id="adsterra-social-bar" src="https://pl31604697.profitableratecpmnetwork.com/0c/82/fd/0c82fd5020308952783182886638f780.js" strategy="afterInteractive" />
       </body>
     </html>
   );

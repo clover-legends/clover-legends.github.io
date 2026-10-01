@@ -61,7 +61,12 @@ html[data-component-style="sharp"] {
   --radius: 0.125rem;
 }
 
-[data-native-ad-slot]:empty { display: none; }
+.ad-label { margin: 0 0 .4rem; color: hsl(var(--muted-foreground)); font-size: .68rem; line-height: 1; letter-spacing: .08em; text-align: center; text-transform: uppercase; }
+.ad-banner-slot { display: flex; flex-direction: column; align-items: center; min-height: 100px; margin-block: 1rem; overflow: hidden; }
+.ad-banner-frame { display: block; max-width: 100%; border: 0; overflow: hidden; }
+.ad-native-slot { margin-block: 1.5rem; padding: 1rem; border: 1px solid hsl(var(--border) / .65); background: hsl(var(--secondary) / .25); overflow: hidden; }
+.ad-native-host { max-width: 100%; overflow: hidden; }
+@media (min-width: 768px) { .ad-banner-slot { min-height: 140px; } }
 
 /* Resource skin */
 .skin-header { position: sticky; top: 0; z-index: 40; }
