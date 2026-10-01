@@ -29,7 +29,15 @@ function injectGoogleTag() {
     console.log("No GA measurement ID configured; skipping gtag.js injection.");
     return 0;
   }
-  const snippet = `<!-- Google tag (gtag.js) -->\n<script async src="https://www.googletagmanager.com/gtag/js?id=${measurementId}"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', '${measurementId}');\n</script>`;
+  const snippet = `<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=${measurementId}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '${measurementId}');
+</script>`;
   let injected = 0;
   for (const file of walk(output)) {
     if (!file.endsWith(".html")) continue;
